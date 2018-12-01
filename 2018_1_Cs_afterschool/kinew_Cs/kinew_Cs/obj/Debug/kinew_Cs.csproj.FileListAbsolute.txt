@@ -1,0 +1,7 @@
+D:\Project\2018\방학_방과후\C#\kinew_Cs\kinew_Cs\bin\Debug\kinew_Cs.exe.config
+D:\Project\2018\방학_방과후\C#\kinew_Cs\kinew_Cs\bin\Debug\kinew_Cs.exe
+D:\Project\2018\방학_방과후\C#\kinew_Cs\kinew_Cs\bin\Debug\kinew_Cs.pdb
+D:\Project\2018\방학_방과후\C#\kinew_Cs\kinew_Cs\obj\Debug\kinew_Cs.csproj.CoreCompileInputs.cache
+D:\Project\2018\방학_방과후\C#\kinew_Cs\kinew_Cs\obj\Debug\kinew_Cs.exe
+D:\Project\2018\방학_방과후\C#\kinew_Cs\kinew_Cs\obj\Debug\kinew_Cs.pdb
+D:\Project\2018\방학_방과후\C#\kinew_Cs\kinew_Cs\obj\Debug\kinew_Cs.csprojAssemblyReference.cache
