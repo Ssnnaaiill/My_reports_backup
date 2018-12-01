@@ -1,0 +1,15 @@
+2018.03.06
+
+1. python 설치
+	- python.org 설치
+	- 상단의 Downloads 메뉴에 마우스 커서 놓기
+	- 3.0 이상의 python 설치 파일 다운 (18.03.06 기준 Windows latest release version : Python 3.6.4)
+	- 설치 파일 실행
+	- 설치 시 환경 변수 체크
+3. sublimetext 3 설치
+	- https://www.sublimetext.com/3 들어가서 sublimetext3 download
+4. python 주석처리
+	- 코드 앞에 '#' 붙이기
+5. sublime 전체 주석 단축키 : Ctrl + /
+6. 이전 명령 재실행
+	- Command Palette : Ctrl + Shift + P
