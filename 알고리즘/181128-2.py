@@ -1,0 +1,1 @@
+a, b = int(input()), int(input()); print(str(int(a * (b % 10))) + '\n' + str(int(a * ((b % 100) - (b % 10)) / 10)) + '\n' + str(int(a * (b - (b % 100)) / 100)) + '\n' + str(a * b))
